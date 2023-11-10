@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "autoprefixer": "9.4.7",
-    "axios": "0.18.0",
+    "axios": "1.6.0",
     "clipboard": "2.0.4",
     "iview": "3.3.3",
     "mime": "2.4.4",
